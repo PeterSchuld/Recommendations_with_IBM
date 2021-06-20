@@ -1,5 +1,5 @@
 # Recommendations_with_IBM
-Project No.5 in the Udacity Data Scientist Nanodegree. Design a Recommendation Engine with IBM Watson. BM has an online data science community where members can post tutorials, notebooks, articles, and datasets. In this project, you will build a recommendation engine, based on user behavior and socialnetwork in IBM Watson Studio’s data platform, to surface content most likely to be relevant to a user.In this assignment, we will be putting our recommendation skills to use on real data from the IBM Watson Studio platform. 
+Project No.5 in the Udacity Data Scientist Nanodegree. Design a Recommendation Engine with IBM Watson. IBM has an online data science community where members can post tutorials, notebooks, articles, and datasets. In this project, you will build a recommendation engine, based on user behavior and socialnetwork in IBM Watson Studio’s data platform, to surface content most likely to be relevant to a user.In this assignment, we will be putting our recommendation skills to use on real data from the IBM Watson Studio platform. 
 
 
 ## Introduction
@@ -15,6 +15,10 @@ In order to determine which articles to show to each user, you will be performin
 Though the above dashboard is just showing the newest articles, you could imagine having a recommendation board available here that shows the articles that are most pertinent to a specific user.
 
 In order to determine which articles to show to each user, we will be performing a study of the data available on the IBM Watson Studio platform. 
+
+
+
+## Content 
 
 The project is divided into the following tasks
 
@@ -37,3 +41,7 @@ Given the amount of content available for each article, there are a number of di
 V. Matrix Factorization
 
 Finally, you will complete a machine learning approach to building recommendations. Using the user-item interactions, you will build out a matrix decomposition. Using your decomposition, you will get an idea of how well you can predict new articles an individual might interact with (spoiler alert - it isn't great). You will finally discuss which methods you might use moving forward, and how you might test how well your recommendations are working for engaging users.
+
+## Data Source:
+
+IBM Watson 
