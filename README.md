@@ -1,5 +1,5 @@
 # Recommendations_with_IBM
-Project No.5 in the Udacity Data Scientist Nanodegree (Summer 2021) . Design a Recommendation Engine with IBM Watson. IBM has an online data science community where members can post tutorials, notebooks, articles, and datasets. In this project, you will build a recommendation engine, based on user behavior and socialnetwork in IBM Watson Studio’s data platform, to surface content most likely to be relevant to a user.In this assignment, we will be putting our recommendation skills to use on real data from the IBM Watson Studio platform. 
+Project No.5 (Experimental Design & Recommendations) in the Udacity Data Scientist Nanodegree (Summer 2021) . Design a Recommendation Engine with IBM Watson. IBM has an online data science community where members can post tutorials, notebooks, articles, and datasets. In this project, you will build a recommendation engine, based on user behavior and socialnetwork in IBM Watson Studio’s data platform, to surface content most likely to be relevant to a user.In this assignment, we will be putting our recommendation skills to use on real data from the IBM Watson Studio platform. 
 
 
 ## Introduction
