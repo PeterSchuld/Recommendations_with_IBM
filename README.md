@@ -49,13 +49,8 @@ Furthermore, this Python file needs to be stored in the working directory
     project_tests.py
 
 
-## Data Source:
 
-IBM Watson
-
-
-
-## Content of the Python notebook 
+## Content of the Python Notebook 
 
 The project is divided into the following tasks
 
@@ -78,6 +73,12 @@ Given the amount of content available for each article, there are a number of di
 V. Matrix Factorization
 
 Finally, you will complete a machine learning approach to building recommendations. Using the user-item interactions, you will build out a matrix decomposition. Using your decomposition, you will get an idea of how well you can predict new articles an individual might interact with (spoiler alert - it isn't great). You will finally discuss which methods you might use moving forward, and how you might test how well your recommendations are working for engaging users.
+
+
+## Data Source:
+
+IBM Watson
+
 
 
 ### Licensing, Authors, and Acknowledgements
