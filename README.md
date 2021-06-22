@@ -37,7 +37,7 @@ Furthermore, this Python file needs to be stored in the working directory
 (1) Python Notebook  
 
     Recommendations_with_IBM_PeterSchuld.ipynb
-    Recommendations_with_IBM_PeterSchuld.html
+    
     
 (2) Original Data:    
 
